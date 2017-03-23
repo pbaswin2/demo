@@ -1,0 +1,15 @@
+.services{
+	background: url("../images/service.jpg") center center no-repeat fixed;
+	background-size: cover;
+	color: #fff;
+}
+.event{
+	background: url("../images/event.jpg") center center no-repeat fixed;
+	background-size: cover;
+	color: #fff;
+}
+.client{
+	background: url("../images/test1.jpg") center center no-repeat fixed;
+	background-size: cover;
+	color: #fff;
+}
