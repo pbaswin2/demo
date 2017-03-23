@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 import {Router,Route,browserHistory,Redirect,IndexRoute} from "react-router";
 import Container from "../container/container"
-import Home from "../container/Home";
-import Game from "../container/Game";
-import Result from "../container/Result";
+import Home from "./Home";
+import Game from "./Game";
+import Result from "./Result";
 import {Provider} from "react-redux";
 import store from "../store";
 
